@@ -1,2 +1,3 @@
 # LOSO-Mobile Responsive Website
-It is a Mobiile Responsive Website made using HTML, CSS, BOOTSTRAP.It also contains various animations features which makes it eye catching and interactive website.
+It is a Mobiile Responsive Website made using HTML, CSS, BOOTSTRAP.
+It also contains various animations features which makes it eye catching and interactive website.
