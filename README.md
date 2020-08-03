@@ -1,2 +1,1 @@
-# COURSERA-Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4-FINAL-PROJECT
-FINAL HONORS SECTION PROJECT 
+# LOSO-Mobile Responsive Website
